@@ -11,4 +11,8 @@ python 3.7.0 + tensorflow 1.13.0 + neuralgym 0.0.1
 ### 1. Dataset
 
 For CelebA: download the cropped face images.
-For CelebA HQ: dowmload the face images and run ``
+For CelebA HQ: dowmload the face images and then run `cropped_image.py` to generate cropped face images.
+
+### 2. pretrained model
+
+
