@@ -20,3 +20,9 @@ Download the pretrained model from [https://pan.baidu.com/s/1wJRt6BJfg7B28ooCFK9
 ### For evaluation
 
 Run `test.py`.
+
+## Acknowledgement
+
+Thanks to previous open-sourced repo:
+
+[Generative image inpainting](https://github.com/JiahuiYu/generative_inpainting)
