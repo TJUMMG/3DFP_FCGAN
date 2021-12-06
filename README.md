@@ -15,7 +15,7 @@ For CelebA HQ: dowmload the face images and then run `cropped_image.py` to gener
 
 ### 2. pretrained model
 
-Download the pretrained model from [https://pan.baidu.com/s/1wJRt6BJfg7B28ooCFK9WqA](https://pan.baidu.com/s/1wJRt6BJfg7B28ooCFK9WqA) [Passeword: txj]
+Download the pretrained model from [https://pan.baidu.com/s/1Ib1KQdcNLg9u1hUX1_e9CA](https://pan.baidu.com/s/1Ib1KQdcNLg9u1hUX1_e9CA) [Passeword: vlcv]
 
 ### For evaluation
 
